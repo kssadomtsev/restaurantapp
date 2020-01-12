@@ -7,6 +7,9 @@
     <groupId>ru.sadomtsev.graduation</groupId>
     <artifactId>restaurantapp</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
+    <description>Graduation project for Topjava</description>
+
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/javax.validation/validation-api -->
